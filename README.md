@@ -1,4 +1,4 @@
-# FinalProject_Option2_Nayeon_Park
+#  CS1030-Data_FinalProject_Option2_Nayeon_Park
 <!DOCTYPE html>
 <html>
 
