@@ -9,6 +9,11 @@
 </head>
 
 <body>
+  <li>The data tool is used to store data in a program or system. The database is a system that stores data on a computer in a way that can be easily accessed, updated, queried, and deleted.SQL references Structured Query Language, which is the programmer or data analysts who analyze the data. It is very similar to the programmer but uses programmer language, but it is for data analysts. </li>
+<body>
+	<li>Big data is big, huge, gigantic data that can be stored in RAM using a data tool. Big data can be used in many different fields. One of the examples from Khan academy was the hospital. Medical researchers were using big data as their algorithm to do additional research. User-facing applications are another example of big data because it collects users' information, such as from Facebook and Twitter. </li>
+<body>
+	<li>The unit test activity was okay, but there were only so many details on Data Tools, Big Data, and Bias in Machine Learning because it was a small quantity of all information. One question I was interested in was about Safiya because this year, Tesla had many problems saying that it cannot detect young kids, and sometimes they detect an animal. </li>
 <header>
   <h1>Assignment by Nayeon Park</h1>
   <nav>
